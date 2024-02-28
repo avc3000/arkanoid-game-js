@@ -1,0 +1,16 @@
+body {
+  background-color: #111;
+}
+
+canvas {
+  border: 4px solid #fff;
+  background: url("images/bkg.png") repeat;
+  margin: 0 auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  color: skyblue;
+  font-family: "Courier New", Courier, monospace;
+}
